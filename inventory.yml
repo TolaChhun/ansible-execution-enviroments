@@ -1,0 +1,7 @@
+---
+
+all:
+  hosts:
+    remote:
+      http_port: 22
+      ansible_host: 127.0.0.1
